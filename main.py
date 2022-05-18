@@ -28,7 +28,7 @@ teams = ["sonysergeeva", "AleksandraYezerskaya", "GornyiA", "shubin_miroslav", "
          "Gazzaeva_Liyana", "Sofia_Salakhova08", "Panteleev_Oleg", "GuskovaMarya2010", "M9_999",
          "Zaynutdinov_Roman", "Fedor_Chekhovskikh", "Mikhail_Chekhovskikh", "mtm009", "Batikyan_Rafael",
          "Maksim_Khomik", "Gleb_Tuhzilkin", "Maksim_Rezyapkin", "Nikita_RezyapkiN", "jonibek23",
-         "polinaSergeeva", "EgorkkG", "NuvaltsevVlad", "Arsenii_Zakharov", "Artem_Burdin_2",
+         "polinaSergeeva", "EgorkkG", "NuvaltsevVlad", "Arsenii_Zakharov ✓", "Artem_Burdin_2",
          "Loshpedrus", "Ivanov_Maxim-63", "RomanStarkov", "T_44", "ArtemLazunin",
          "Shibanov-Konstantin1", "Saraev_Iliya", "Saraeva_Maya", "GlebF10", "Guskov-E_2012",
          "GordeyG", "Bogdanov_Makar", "OstapTuzhilkin", "svyatoslav_bokov", "Stas121213"]
